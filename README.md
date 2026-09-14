@@ -16,8 +16,4 @@ To run the primary network training loop:
 python neural_net.py
 ```
 
-### Running the Correctness Harness
-To execute the automated evaluation test script vs PyTorch Autograd:
-```bash
-python test_network.py
-```
+
