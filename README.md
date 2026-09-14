@@ -13,7 +13,7 @@ pip install numpy torch
 ### Running the Training Simulation
 To run the primary network training loop:
 ```bash
-python neural_net.py
+python neural_net.ipynb
 ```
 
 
